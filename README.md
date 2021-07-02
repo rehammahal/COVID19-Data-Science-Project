@@ -7,7 +7,7 @@ In this project, I applied all that I learned in data science and analysis so fa
 The goal of this project to handling with datasets and wrangling data from missing values and reformat them, binning, grouping, apply some descriptive statistical, and finally visualization for results.
 
 
-هذا المشروع عبارة عن تمرين في معسكر علم البيانات والبيانات الضخمة المنقدم د.غالب الشمري والمنظم من قبل الجمعية السعودية لعلم البيانات.
+هذا المشروع عبارة عن تمرين في معسكر علم البيانات والبيانات الضخمة المقدم من قبل د.غالب الشمري والمنظم من قبل الجمعية السعودية لعلم البيانات.
 
 و هو تمرين عبارة عن دراسة حالة لمجموعة بيانات من وزارة الصحة السعودية لحالات كورونا في المملكة العربية السعودية  للربع الثاني من سنة 2020
 
