@@ -1,5 +1,5 @@
 # COVID19-project
-This project is an exercise in data science and big data Bootcamp that organized by the Saudi society for data science.
+This project is an exercise in data science and big data bootcamp that organized by the Saudi Society for Data Science.
 
 This exercise is a case study for the second quarter of the 2020 year on the Covid-19 pandemic in Saudi Arabia.
 
